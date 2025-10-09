@@ -9,7 +9,7 @@
                         class="px-4 py-2 text-sm rounded-lg border-2 border-white-50 bg-white/10 text-white border-white hover:bg-white/20">
                         Packages
                     </a>
-                    <a id="price" href="pages/pricecalc.php"
+                    <a id="price" href="calc/estimate.php"
                         class="px-4 py-2 text-sm rounded-lg text-white bg-emerald-900 hover:bg-emerald-950">
                         Get Estimated Price
                     </a>

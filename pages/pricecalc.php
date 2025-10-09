@@ -14,9 +14,8 @@
         <!-- Booking Type -->
         <div class="bg-white rounded-2xl shadow p-6 space-y-4">
           <h3 class="text-lg font-semibold text-emerald-800">1. Choose Booking Type</h3>
-          <select id="bookingType" class="w-full border-gray-300 rounded-lg focus:ring-emerald-500 focus:border-emerald-500">
-            <option value="">Select a Package</option>
-            <option value="day">Day Tour – ₱4,900 (30 pax)</option>
+          <select id="bookingType" class="bg-emerald-50 w-full border-gray-300 rounded-lg focus:ring-gray-700 focus:border-emerald-500 p-4">
+            <option class="bg-emerald-100 rounded-lg p-5" value="day">Day Tour – ₱4,900 (30 pax)</option>
             <option value="night">Night Tour – ₱5,900 (30 pax)</option>
             <option value="mi-amore">Mi Amore Villa – ₱8,500 (8 pax)</option>
             <option value="mi-carino">Mi Cariño Villa – ₱3,950 (2 pax)</option>
